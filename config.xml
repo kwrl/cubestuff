@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <skin version="3.1">
+
   <info>
 	<!--
 	UIDs can be generated on the unix/linux command line using `uuid -v4`, or you can use any string, as long as you think it wont accidentally be picked by anyone else
